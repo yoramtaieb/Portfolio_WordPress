@@ -1,0 +1,23 @@
+.elementor-414 .elementor-element.elementor-element-54a26d6 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-414 .elementor-element.elementor-element-54a26d6{margin-top:15px;margin-bottom:15px;padding:0px 35px 0px 35px;}.elementor-414 .elementor-element.elementor-element-99ffd65.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:space-between;}.elementor-414 .elementor-element.elementor-element-c49eb21{text-align:left;width:auto;max-width:auto;}.elementor-414 .elementor-element.elementor-element-d052931{text-align:right;width:auto;max-width:auto;}.elementor-414 .elementor-element.elementor-element-d052931 .aux-menu-depth-0 > .aux-item-content{color:#373737;font-family:"Poppins", Sans-serif;font-size:60px;font-weight:bold;text-transform:capitalize;line-height:1.7em;letter-spacing:-1.8px;padding:0px 0px 0px 40px;}.elementor-414 .elementor-element.elementor-element-d052931 .aux-menu-depth-0.aux-hover > .aux-item-content {color:#AAAAAA !important;}.elementor-414 .elementor-element.elementor-element-d052931 .aux-menu-depth-0.current-menu-item > a{color:#FFFFFF;}.elementor-414 .elementor-element.elementor-element-d052931 .aux-fs-popup{background-color:#000000;}.elementor-414 .elementor-element.elementor-element-d052931 .aux-fs-menu .aux-master-menu{text-align:left;}@media(max-width:1024px){.elementor-414 .elementor-element.elementor-element-99ffd65.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:space-between;}.elementor-414 .elementor-element.elementor-element-c49eb21{text-align:center;width:auto;max-width:auto;}.elementor-414 .elementor-element.elementor-element-d052931{width:auto;max-width:auto;}}@media(max-width:767px){.elementor-bc-flex-widget .elementor-414 .elementor-element.elementor-element-99ffd65.elementor-column .elementor-column-wrap{align-items:center;}.elementor-414 .elementor-element.elementor-element-99ffd65.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-414 .elementor-element.elementor-element-99ffd65.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:space-between;}.elementor-414 .elementor-element.elementor-element-c49eb21{text-align:left;width:auto;max-width:auto;}.elementor-414 .elementor-element.elementor-element-d052931{text-align:left;width:auto;max-width:auto;}.elementor-414 .elementor-element.elementor-element-d052931 .aux-menu-depth-0 > .aux-item-content{font-size:45px;}.elementor-414 .elementor-element.elementor-element-d052931 > .elementor-widget-container{margin:0px 0px 0px 0px;}}/* Start custom CSS for aux_menu_box, class: .elementor-element-d052931 */.elementor-414 .elementor-element.elementor-element-d052931 .aux-burger:before{
+    width: 13px;
+    margin-left: auto;
+    border-width: 2.5px;
+}
+.elementor-414 .elementor-element.elementor-element-d052931 .aux-burger:after{
+    width: 13px;
+    margin-right: auto;
+    border-width: 2.5px;
+}
+.elementor-414 .elementor-element.elementor-element-d052931 .mid-line {
+    margin: 5px 0;
+    border-width: 2.5px;
+}.elementor-414 .elementor-element.elementor-element-d052931 .aux-fs-popup .aux-panel-close{
+    width: 30px;
+    top: 15px;
+}.elementor-414 .elementor-element.elementor-element-d052931 .aux-panel-close{
+border: none;
+}
+.elementor-414 .elementor-element.elementor-element-d052931 .aux-cross-symbol::after, .elementor-414 .elementor-element.elementor-element-d052931 .aux-cross-symbol::before{
+    height: 2px;
+    background-color: #fff;
+}/* End custom CSS */
